@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 446e21b83f8e46d08cd63100f225bdbe
+timeCreated: 1672818026
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/RangeFloat.cs
+  uploadId: 641425

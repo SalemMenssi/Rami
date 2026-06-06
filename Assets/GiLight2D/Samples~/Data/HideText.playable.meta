@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb51b3cc083659042a793fc5a763dfd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Samples~/Data/HideText.playable
+  uploadId: 641425

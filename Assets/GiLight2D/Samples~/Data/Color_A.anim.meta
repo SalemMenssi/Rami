@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03a9fbf650b165544a2612f4e4eca341
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Samples~/Data/Color_A.anim
+  uploadId: 641425

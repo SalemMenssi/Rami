@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 851a2599be5043ef8d6e2150ec99215d
+timeCreated: 1672133911
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/Blit.shader
+  uploadId: 641425

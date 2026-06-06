@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4fac037417a02b641846a79bc2c9ba0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/GiLight2D.cs
+  uploadId: 641425

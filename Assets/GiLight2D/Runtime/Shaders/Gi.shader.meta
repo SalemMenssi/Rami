@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3976991d178c5240be7f3f1e3b11a51
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/Gi.shader
+  uploadId: 641425

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6dbf81503260d94d93ee8ac85b4b65f, type: 3}
+  m_Name: Mode_Kbabet
+  m_EditorClassIdentifier: 
+  ModeId: kbabet
+  DisplayName: Kbabet
+  Description: "Minimise your score. No Knock \u2014 empty your hand to go out. Tafdhila
+    adds +50 to an opponent."
+  Icon: {fileID: 0}
+  Rules: {fileID: 11400000, guid: 95cbbd807b02e1542bf567b946d40549, type: 2}
+  Deck: {fileID: 11400000, guid: ee0e788e9b18d0c438155d26d232ce10, type: 2}
+  MinPlayers: 2
+  MaxPlayers: 4
+  SortOrder: 2
+  AvailableForGuests: 1

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 38f76639732a4cad9b8bc6b22c72e98a
+timeCreated: 1674047975
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Editor/NoiseOptionsDrawer.cs
+  uploadId: 641425

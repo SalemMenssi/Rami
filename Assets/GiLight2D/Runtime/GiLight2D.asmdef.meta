@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6477b8dbb0b0f3d4b9afc6699feeb7ce
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/GiLight2D.asmdef
+  uploadId: 641425

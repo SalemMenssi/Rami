@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 69490807a6514ff9aec54edf0b86f83f
+timeCreated: 1672818226
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Editor/RangeFloatDrawer.cs
+  uploadId: 641425

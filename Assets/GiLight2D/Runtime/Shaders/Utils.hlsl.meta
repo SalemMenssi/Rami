@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 557687c768704222b31f1eab2ce61f9b
+timeCreated: 1674406269
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/Utils.hlsl
+  uploadId: 641425

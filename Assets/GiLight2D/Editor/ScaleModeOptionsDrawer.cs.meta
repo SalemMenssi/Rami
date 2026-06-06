@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5bccc23a023a48439a0198c40d1f16d3
+timeCreated: 1672824672
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Editor/ScaleModeOptionsDrawer.cs
+  uploadId: 641425

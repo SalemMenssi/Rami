@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66aeaa25023264f478cd77a4f510a4f0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/package.json
+  uploadId: 641425

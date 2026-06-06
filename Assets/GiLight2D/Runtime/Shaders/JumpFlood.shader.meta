@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff0aea4fe3c269346a4f46c39caaceff
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/JumpFlood.shader
+  uploadId: 641425

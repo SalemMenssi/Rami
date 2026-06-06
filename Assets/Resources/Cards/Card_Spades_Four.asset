@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 499fbe229b5749c428f808a0eac6e8f1, type: 3}
+  m_Name: Card_Spades_Four
+  m_EditorClassIdentifier: 
+  Suit: 1
+  Rank: 4
+  DisplayName: Four of Spades
+  PointValue: 4
+  AltPointValue: 4
+  FaceSprite: {fileID: 21300000, guid: 82a0e59bd173c9f4fa2455d7f037c5d2, type: 3}
+  IsNaturalJoker: 0
+  IsRedJoker: 0
+  HasSpecialScoringRole: 0
+  MetadataTag: 

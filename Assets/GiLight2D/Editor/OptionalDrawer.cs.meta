@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd69bf902b1f13349b3dfc6fff2f1a12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Editor/OptionalDrawer.cs
+  uploadId: 641425

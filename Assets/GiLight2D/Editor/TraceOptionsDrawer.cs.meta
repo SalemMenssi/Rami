@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f75040f8c8eb494a8a6dc9e8cbcfac5c
+timeCreated: 1674561971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Editor/TraceOptionsDrawer.cs
+  uploadId: 641425

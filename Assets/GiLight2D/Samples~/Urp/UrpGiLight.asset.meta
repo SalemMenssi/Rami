@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbf40e6cfd2326e43bf6255710a07a83
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Samples~/Urp/UrpGiLight.asset
+  uploadId: 641425

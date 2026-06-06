@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58ebf41794527ea41b07b4fed7fc2bd6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/Distance.shader
+  uploadId: 641425

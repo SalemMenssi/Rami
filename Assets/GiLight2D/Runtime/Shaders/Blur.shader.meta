@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9d7ba1ec95c14b35be2428add4d01f82
+timeCreated: 1674369756
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268033
+  packageName: GiLight2D
+  packageVersion: 1.0
+  assetPath: Assets/GiLight2D/Runtime/Shaders/Blur.shader
+  uploadId: 641425
