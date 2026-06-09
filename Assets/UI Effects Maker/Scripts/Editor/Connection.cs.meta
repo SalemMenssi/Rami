@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1d31bcf4dd6c284991ae5c725e4e1e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248392
+  packageName: UI Effects Maker
+  packageVersion: 1.4
+  assetPath: Assets/UI Effects Maker/Scripts/Editor/Connection.cs
+  uploadId: 593904

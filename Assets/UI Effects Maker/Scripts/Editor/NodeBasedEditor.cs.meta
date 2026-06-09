@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30c11a00d582f3f45b1034144c20102b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248392
+  packageName: UI Effects Maker
+  packageVersion: 1.4
+  assetPath: Assets/UI Effects Maker/Scripts/Editor/NodeBasedEditor.cs
+  uploadId: 593904
